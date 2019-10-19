@@ -1,0 +1,30 @@
+
+  body {
+    background-color: aliceblue;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    background-color: white;
+    height: 1px;
+    width: 2%;
+    border-color: grey;
+    border-width:5px;
+  }
+
+  img {
+    height: 200px;
+  }
+h1
+{
+color: #51DACF;
+text-shadow: 4px 8px 4px lightgrey;
+}
+
+h3
+{
+  color: #51DACF;
+  text-transform: uppercase;
+  text-decoration: underline overline;
+  }
